@@ -12,7 +12,7 @@ public class JavaVersionInformation {
 		Properties props = System.getProperties();
 		// System.out.println(props);
 		String key = "", val = "";
-		// display any propert with a string-type key and a string-type value
+		// display any property with a string-type key and a string-type value
 		for (Entry<Object, Object> prop : props.entrySet()) {
 			key = "";
 			if (prop.getKey() instanceof String) {
