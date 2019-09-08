@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaVersionInformation",
+            "request": "launch",
+            "mainClass": "JavaVersionInformation",
+            "projectName": "java-version-information",
+            "console": "integratedTerminal"
+        }
+    ]
+}
