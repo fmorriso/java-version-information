@@ -10,7 +10,7 @@ Date written: September 8, 2019
 Althought the program was originally developed in Eclipse (2019-06), I deliberately set up the project 
 so that it could be easily run in other java IDEs such as
 * Microsoft Visual Studio Code
-* jGrasp
+* jGrasp - 
 That is why there is no `src` folder in the project.
 
 One thing that I do that you may or may not agree with is how/where I install the JDK on my Windows computers.
